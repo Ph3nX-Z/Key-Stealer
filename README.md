@@ -4,7 +4,7 @@
 
 key-stealer is an open-source keylogger, only for educational purpose.
 
-_*USAGE :*_
+<h2>_*USAGE :*_<h2>
 
 Just run the .exe file, it will generate a log.txt file. :)
 
