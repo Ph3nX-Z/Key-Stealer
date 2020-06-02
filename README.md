@@ -2,13 +2,12 @@
 # Key-Stealer #
 ###############
 
-key-stealer is an open-source keylogger, only for educational purpose.
+*key-stealer is an open-source keylogger, only for educational purpose.*
 
-<h5>USAGE :<h5>
+_USAGE :_
 
-<p>*     Just run the .exe file, it will generate a log.txt file. :)<p>
+	*Just run the .exe file, it will generate a log.txt file. :)
 
-<h5>What happen when you run the program?:<h5>
+_What happen when you run the program?:_
 
-<p>*     It will grab chrome passwords and get keystrokes.<p>
-
+	*It will grab chrome passwords and get keystrokes.
